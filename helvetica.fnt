@@ -1,0 +1,17 @@
+info face="Helvetica Neue LTW0697BlkCnObl" size=200 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=1,1,1,1 spacing=-2,-2
+common lineHeight=239 base=191 scaleW=512 scaleH=512 pages=1 packed=0
+page id=0 file="helvetica.png"
+chars count=12
+char id=0       x=254  y=294  width=105  height=146  xoffset=-1   yoffset=46   xadvance=102  page=0    chnl=0 
+char id=32      x=0    y=0    width=0    height=0    xoffset=-1   yoffset=0    xadvance=52   page=0    chnl=0 
+char id=48      x=0    y=147  width=123  height=147  xoffset=12   yoffset=48   xadvance=104  page=0    chnl=0 
+char id=49      x=123  y=147  width=77   height=144  xoffset=28   yoffset=48   xadvance=104  page=0    chnl=0 
+char id=50      x=200  y=147  width=134  height=144  xoffset=2    yoffset=48   xadvance=104  page=0    chnl=0 
+char id=51      x=0    y=0    width=123  height=147  xoffset=9    yoffset=48   xadvance=104  page=0    chnl=0 
+char id=52      x=0    y=294  width=125  height=141  xoffset=7    yoffset=51   xadvance=104  page=0    chnl=0 
+char id=53      x=334  y=147  width=127  height=144  xoffset=9    yoffset=51   xadvance=104  page=0    chnl=0 
+char id=54      x=123  y=0    width=127  height=147  xoffset=11   yoffset=48   xadvance=104  page=0    chnl=0 
+char id=55      x=125  y=294  width=129  height=141  xoffset=21   yoffset=51   xadvance=104  page=0    chnl=0 
+char id=56      x=250  y=0    width=129  height=147  xoffset=9    yoffset=48   xadvance=104  page=0    chnl=0 
+char id=57      x=379  y=0    width=126  height=147  xoffset=11   yoffset=48   xadvance=104  page=0    chnl=0 
+kernings count=0
